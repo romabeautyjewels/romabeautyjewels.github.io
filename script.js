@@ -1,7 +1,7 @@
 // Add the real shop details below when ready. Leave empty to show placeholders.
 const SHOP_PHONE = '9102531312';
-const SHOP_ADDRESS = '';
-const SHOP_MAP_URL = '';
+const SHOP_ADDRESS = 'Indraprasth Colony, Jora Talab, Bariatu, Ranchi, Jharkhand - 834009';
+const SHOP_MAP_URL = 'https://www.google.com/maps/search/?api=1&query=Indraprasth%20Colony%20Jora%20Talab%20Bariatu%20Ranchi%20834009';
 
 const menu = document.querySelector('.menu');
 const nav = document.querySelector('#nav');
