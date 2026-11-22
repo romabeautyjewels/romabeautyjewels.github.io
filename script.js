@@ -1,6 +1,6 @@
 // Add the real shop details below when ready. Leave empty to show placeholders.
 const SHOP_PHONE = '9102531312';
-const SHOP_ADDRESS = '';
+const SHOP_ADDRESS = 'Near Jora talab bariatu ranchi 834009';
 const SHOP_MAP_URL = '';
 
 const menu = document.querySelector('.menu');
